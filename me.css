@@ -1,0 +1,21 @@
+body {
+    background-color: teal; color: wheat; 
+}
+h1, h2, h3, h4 { text-align: center}
+a {
+    color: whitesmoke
+}
+a:hover {
+    color: salmon;
+}
+a:visited {
+    color: salmon;
+}
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border: 5px solid #555;
+      }
+  }
